@@ -20,7 +20,7 @@ pip install breezypythongui
 
 **Important Note:**
 
-This repository is not affiliated with the official BreezyPythonGUI project. It is intended to provide a convenient way to install the library for educational purposes. Please refer to the official website for the latest information and documentation: [breezypythongui ON Kenneth Lambert lambertk.academic.wlu.edu]
+This repository is not affiliated with the official BreezyPythonGUI project. It is intended to provide a convenient way to install the library for educational purposes. Please refer to the official website for the latest information and documentation: [BreezyPythonGUI](https://lambertk.academic.wlu.edu/breezypythongui/)
 
 **Feedback:**
 
